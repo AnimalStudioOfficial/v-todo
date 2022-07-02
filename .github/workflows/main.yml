@@ -29,4 +29,3 @@ jobs:
         uses: nzbr/vlang-action@v2
         with:
           file: main.v
-          run: main.exe
